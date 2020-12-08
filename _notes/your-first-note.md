@@ -14,6 +14,13 @@ To link to another note, you can use multiple syntaxes. The following four use t
 - Using the note's filename: [[cats]]
 - Using the note's title, with a label: [[A note about cats|link to the note about cats using the note title]]
 - Using the note's filename, with a label: [[cats|link to the note about cats using the note's filename]]
+- [[Alternatives a Roam]]
+- [[excursions]]
+- [[move your body every day]]
+- [[consistency]]
+- [[Mis atajos de teclado]]
+- [[prunus domestica]]
+- [[habilitats]]
 
 In all cases, if the double-bracket link does not point to a valid note, the double brackets will still be shown, like this: [[there is no note that matches this link]].
 
